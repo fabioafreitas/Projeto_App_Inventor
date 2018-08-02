@@ -7,3 +7,6 @@ Importe o projeto_paradigmas.aia num projeto do <a href="http://appinventor.mit.
 TESTAR:
 Baixe o .apk e instale no seu dispositivo android.
 
+SPRITES UTILIZADOS: 
+utilizamos as imagens disponibilizadas no <a href="https://opengameart.org/content/complete-spaceship-game-art-pack">opengameart</a>
+
